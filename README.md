@@ -6,6 +6,8 @@ Este é um desafio do Bootcamp da DIO com a NTT Data.
 
 É um desafio básico de HTML, o que foi muito bom para dar uma "reciclada" no conhecimento.
 
+O objetivo do desafio é apenas focar nas Tags HTML abordadas no módulo. Mas não resisti e tive que colocar alguns estilos CSS.
+
 Gostaria de fazer o site melhor, mas devido ao pouco tempo, fiz ele bem simples.
 
 Vou melhorar este site no futuro, com certeza. Mas como tenho que entregar o desafio, e o Bootcamp tem data para término, por hora vou entregá-lo assim.
@@ -20,6 +22,8 @@ Creating the first website with html.
 This is a DIO Bootcamp challenge with NTT Data.
 
 It's a basic HTML challenge, which was very good to "recycle" the knowledge.
+
+The purpose of the challenge is just to focus on the HTML Tags covered in the module. But I couldn't resist and had to put some CSS styles.
 
 I would like to make the site better, but due to the short time, I made it very simple.
 
